@@ -1,0 +1,52 @@
+#form{
+    border-radius: 20px;
+    padding: 10px 15px;
+    background-color: white;
+    margin: 50px;
+}
+button{
+    background-color: blue;
+    border-radius: 350px;
+    padding: 15px 32px;
+    color: white;
+    
+}
+#page{
+    background-color: coral;
+}
+img{
+    margin-right: auto;
+    width: 300px;
+    padding: 15px;
+}
+.container{
+   width: 400px;
+   height: 350px;
+   margin-left: 50%;
+   float: top;
+}
+.button2{
+    background-color: blue;
+    color: white;
+    padding: 30px 20px;
+}
+#div2{
+    text-align: center;
+    border: solid;
+    border-style: hidden;
+    background-color: palevioletred;
+    margin: 50px;
+    border-radius: 30px;
+}
+.button3{
+    background-color: blue;
+    color: white;
+    padding: 30px 20px;
+    
+}
+th{
+    background-color: chartreuse;
+}
+
+
+
